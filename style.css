@@ -70,7 +70,7 @@
         .min,
         .dot {
             display: inline-block;
-            font-size: 7rem;
+            font-size: 5rem;
         }
            #name {
             position: absolute;
